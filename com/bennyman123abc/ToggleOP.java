@@ -1,4 +1,4 @@
-/*    */ package com.bennyman123abc;
+/*    */ package com.bennyman123abc; HELLO
 /*    */ 
 /*    */ import java.util.logging.Logger;
 /*    */ import org.bukkit.Bukkit;
